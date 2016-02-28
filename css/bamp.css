@@ -100,8 +100,8 @@ h6 a:hover{
 }
 
 .link-underline a{
-	border-bottom: 1px solid #768AFC;
-	box-shadow: inset 0 -1px 0 #768AFC;
+	border-bottom: 1px solid #FB2949;
+	box-shadow: inset 0 -1px 0 #FB2949;
 	color: #fff;
 	webkit-transition: background 0.15s cubiz-bezier(0.33,0.66,0.66,1);
 	transition: background 0.15s cubiz-bezier(0.33,0.66,0.66,1);
@@ -109,13 +109,13 @@ h6 a:hover{
 }
 
 .link-underline a:hover{
-	background: #768AFC;
+	background: #FB2949;
 	color: #fff;
 }
 
 #link-underline {
-	border-bottom: 1px solid #768AFC;
-	box-shadow: inset 0 -1px 0 #768AFC;
+	border-bottom: 1px solid #FB2949;
+	box-shadow: inset 0 -1px 0 #FB2949;
 	color: #fff;
 	webkit-transition: background 0.15s cubiz-bezier(0.33,0.66,0.66,1);
 	transition: background 0.15s cubiz-bezier(0.33,0.66,0.66,1);
@@ -123,7 +123,7 @@ h6 a:hover{
 }
 
 #link-underline:hover {
-	background: #768AFC;
+	background: #FB2949;
 }
 h1 {
 	font-size: 3.8rem;
