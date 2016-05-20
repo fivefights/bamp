@@ -42,8 +42,8 @@ body,
 	position: relative;
 }
 .section-block.replicable-content{
-	padding-top: 7rem;
-	padding-bottom: 4rem;
+	padding-top: 0rem;
+	padding-bottom: 0rem;
 }
 .section-block.regular-content > .row > .column >*:first-child,
 .section-block.replicable-content > .row > .column >*:first-child{
@@ -4241,8 +4241,8 @@ only screen and (				min-resolution: 2dppx) {
 	background-color: #968e8f;
 }
 .footer-1 .footer-top{
-	padding-top: 7rem;
-	padding-bottom: 5rem;
+	padding-top: 0rem;
+	padding-bottom: 0rem;
 }
 .footer-1 .footer-logo{
 	width: 17rem;
