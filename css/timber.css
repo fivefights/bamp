@@ -703,7 +703,7 @@ body {
 }
 .side-navigation ul li.current > a{
 	color:#ffffff;
-	font-weight: bold;
+	font-weight: normal;
 }
 .side-navigation ul li.current > a:hover{
 	color:#ffffff;
@@ -811,7 +811,7 @@ body {
 .overlay-navigation > ul > li > a{
 	font-size: 1.8rem;
 	line-height: 1.5;
-	font-weight: bold;
+	font-weight: normal;
 }
 .overlay-navigation ul li a:hover{
 	color: #ffffff;
@@ -823,12 +823,12 @@ body {
 .overlay-navigation .sub-menu .sub-menu a{
 	padding-left: 7rem;
 }
-.overlay-navigation  ul li:hover > .sub-menu{
+.overlay-navigation ul li:hover > .sub-menu{
 	opacity: 1;
 }
 .overlay-navigation ul li.current > a{
 	color:#ffffff;
-	font-weight: bold;
+	font-weight: normal;
 }
 .overlay-navigation ul li.current > a:hover{
 	color:#ffffff;
@@ -1273,7 +1273,7 @@ label.pull-right{
 label.emphasized{
 	color: #666;
 	font-size: 1.2rem;
-	font-weight: bold;
+	font-weight: normal;
 }
 
 /* Style */
@@ -1548,7 +1548,7 @@ button.disabled:hover,
 .dropdown-list .list-header{
 	padding: 0.6rem 2.5rem;
 	font-size: 1.1rem;
-	font-weight: bold;
+	font-weight: normal;
 	background: #ddd;
 }
 .dropdown.small .button,
@@ -2463,7 +2463,7 @@ table.table{
 }
 .box > a:not(.button){
 	color: inherit;
-	font-weight: bold;
+	font-weight: normal;
 }
 .box > a:not(.button):hover{
 	color: inherit;
@@ -2556,7 +2556,7 @@ table.table{
 	margin-bottom: 2rem;
 	font-size: 1.2rem;
 	line-height: 1.6rem;
-	font-weight: bold;
+	font-weight: normal;
 	text-align: right;
 	color:#666666;
 	border: 1px solid #eeeeee;
@@ -2653,7 +2653,7 @@ hr.thick{
 */
 h1, h2, h3, h4, h5, h6{
 	color: #333333;
-	font-weight: bold;
+	font-weight: normal;
 	line-height: 1;
 	margin: 1rem 0 2rem 0;
 }
@@ -2774,7 +2774,7 @@ em {
 	font-style: italic;
 }
 strong {
-	font-weight: bold;
+	font-weight: normal;
 }
 small {
 	font-size: 65%;
@@ -2793,13 +2793,13 @@ small {
 .weight-regular{
 	font-weight: 400;
 }
-.weight-semi-bold{
+.weight-semi-normal{
 	font-weight: 600;
 }
-.weight-bold{
+.weight-normal{
 	font-weight: 700;
 }
-.weight-xbold{
+.weight-xnormal{
 	font-weight: 900;
 }
 .text-shadow{
@@ -3152,10 +3152,10 @@ pre code{
 .icon-left-dir:before { content: '\e884'; } /* '' */
 .icon-right-dir:before { content: '\e885'; } /* '' */
 .icon-up-dir:before { content: '\e886'; } /* '' */
-.icon-down-bold:before { content: '\e887'; } /* '' */
-.icon-left-bold:before { content: '\e888'; } /* '' */
-.icon-right-bold:before { content: '\e889'; } /* '' */
-.icon-up-bold:before { content: '\e88a'; } /* '' */
+.icon-down-normal:before { content: '\e887'; } /* '' */
+.icon-left-normal:before { content: '\e888'; } /* '' */
+.icon-right-normal:before { content: '\e889'; } /* '' */
+.icon-up-normal:before { content: '\e88a'; } /* '' */
 .icon-down-thin:before { content: '\e88b'; } /* '' */
 .icon-left-thin:before { content: '\e88c'; } /* '' */
 .icon-right-thin:before { content: '\e88d'; } /* '' */

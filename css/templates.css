@@ -315,7 +315,7 @@ body,
 	float: left;
 }
 .header .logo a{
-	font-weight:bold;
+	font-weight:normal;
 	text-decoration: none;
 	color: #ffffff;
 	display: block;
@@ -871,7 +871,7 @@ body,
 }
 .side-navigation-header .logo a{
 	font-size: 1.5rem;
-	font-weight:bold;
+	font-weight:normal;
 	text-decoration: none;
 	color: #666666;
 }
@@ -2040,7 +2040,7 @@ only screen and (				min-resolution: 2dppx) {
 }
 .testimonial-1 cite{
 	text-transform: uppercase;
-	font-weight: bold;
+	font-weight: normal;
 	font-style: normal;
 	letter-spacing: 0.1rem;
 }
@@ -2077,7 +2077,7 @@ only screen and (				min-resolution: 2dppx) {
 }
 .testimonial-2 cite{
 	text-transform: uppercase;
-	font-weight: bold;
+	font-weight: normal;
 	font-style: normal;
 	letter-spacing: 0.1rem;
 }
@@ -2150,7 +2150,7 @@ only screen and (				min-resolution: 2dppx) {
 }
 .testimonial-5 cite{
 	text-transform: uppercase;
-	font-weight: bold;
+	font-weight: normal;
 	font-style: normal;
 	letter-spacing: 0.1rem;
 }
@@ -2259,7 +2259,7 @@ only screen and (				min-resolution: 2dppx) {
 .team-2 .social-list .list-label{
 	margin-right: 1rem;
 	font-size: 1rem;
-	font-weight: bold;
+	font-weight: normal;
 	color: #999;
 	text-transform: uppercase;
 	display: inline-block;
@@ -3397,7 +3397,7 @@ only screen and (				min-resolution: 2dppx) {
 	font-size: 1.7rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
-	font-weight: bold;
+	font-weight: normal;
 	color: #999;
 }
 .social-4 ul li a:hover{
@@ -3491,7 +3491,7 @@ only screen and (				min-resolution: 2dppx) {
 	margin-bottom: 0.5rem;
 	font-size: 3rem;
 	line-height: 1;
-	font-weight: bold;
+	font-weight: normal;
 }
 .stats-2 .description{
 	font-size: 1.2rem;
@@ -3521,13 +3521,13 @@ only screen and (				min-resolution: 2dppx) {
 	margin-bottom: 0.5rem;
 	font-size: 3rem;
 	line-height: 1;
-	font-weight: bold;
+	font-weight: normal;
 }
 .stats-3 .mega-stat .counter{
 	margin-bottom: 0.5rem;
 	font-size: 7rem;
 	line-height: 1;
-	font-weight: bold;
+	font-weight: normal;
 }
 .stats-3 .description{
 	font-size: 1.2rem;
@@ -3538,13 +3538,13 @@ only screen and (				min-resolution: 2dppx) {
 	margin-bottom: 0;
 	font-size: 2rem;
 	line-height: 1;
-	font-weight: bold;
+	font-weight: normal;
 }
 .stats-3 .description{
 	margin-bottom: 1rem;
 	padding-bottom: 1rem;
 	border-bottom: 1px dotted #ddd;
-	font-weight: bold;
+	font-weight: normal;
 }
 .stats-3 .description:last-child{
 	margin-bottom: 0;
@@ -3961,9 +3961,9 @@ only screen and (				min-resolution: 2dppx) {
 	float: right;
 }
 .pagination-1 span{
-	font-family: 'Rock Salt', cursive;
+	font-family: 'Allan', cursive;
 	font-size: 2rem;
-	font-weight: bold;
+	font-weight: normal;
 	display: block;
 }
 .pagination-1 a.disabled,
@@ -3976,7 +3976,7 @@ only screen and (				min-resolution: 2dppx) {
 	margin-bottom: 0;
 	font-size: 1.7rem;
 	text-align: center;
-	font-weight: bold;
+	font-weight: normal;
 }
 .pagination-1 .page-list li{
 	padding: 0 0.7rem;
@@ -4046,7 +4046,7 @@ only screen and (				min-resolution: 2dppx) {
 }
 .pagination-2 span{
 	font-size: 2rem;
-	font-weight: bold;
+	font-weight: normal;
 	display: block;
 }
 .pagination-2 a.disabled,
@@ -4075,7 +4075,7 @@ only screen and (				min-resolution: 2dppx) {
 	border: 1px solid #ddd;
 	border-radius: 50%;
 	font-size: 1.5rem;
-	font-weight: bold;
+	font-weight: normal;
 	line-height: 1.8rem;
 	text-align: center;
 }
@@ -4107,7 +4107,7 @@ only screen and (				min-resolution: 2dppx) {
 	width: auto;
 	margin: 0 0.5rem;
 	font-size: 1.6rem;
-	font-weight: bold;
+	font-weight: normal;
 }
 .pagination-4 .button.disabled,
 .pagination-4 .button.disabled:hover{
@@ -4362,7 +4362,7 @@ only screen and (				min-resolution: 2dppx) {
 }
 .footer-2 .copyright{
 	font-size: 1.1rem;
-	font-weight: bold;
+	font-weight: normal;
 	letter-spacing: 0.1rem;
 }
 .footer-2 .footer-bottom .navigation, 
@@ -4712,7 +4712,7 @@ only screen and (				min-resolution: 2dppx) {
     margin-right: 0.5rem;
     margin-top: 0;
     font-size: 1.1rem;
-    font-weight: bold;
+    font-weight: normal;
     letter-spacing: 0.1rem;
     text-transform: uppercase;
     display: inline-block;
@@ -4970,7 +4970,7 @@ only screen and (				min-resolution: 2dppx) {
 
 /* Post Tags */
 .single-post-tags .tags-title{
-	font-weight: bold;
+	font-weight: normal;
 	margin-top: 0;
 }
 .single-post-tags a{
@@ -5041,7 +5041,7 @@ only screen and (				min-resolution: 2dppx) {
 	display: inline-block;
 	font-size: 1.2rem;
 	letter-spacing: 0.1rem;
-	font-weight: bold;
+	font-weight: normal;
 }
 .post-comments .comment-meta a:first-child{
 	margin-left: 0;

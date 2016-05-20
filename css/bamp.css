@@ -25,6 +25,8 @@ Copyright: ThemeMountain
 17. Footer
 18. Media Element Player
 19. Helper Classes
+20. Demo Misc
+21. Yuda Stack Effect
 -------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------
@@ -90,6 +92,12 @@ h6, h6 a{
 	color: #fff;
 	letter-spacing: 0.15rem;
 }
+
+h3 a:link{
+	font-family: 'Cutive Mono';
+	font-size: 1.50rem;
+}
+
 h1 a:hover,
 h2 a:hover,
 h3 a:hover,
@@ -151,7 +159,7 @@ h6 {
 }
 p{
 	font-family: 'Cutive Mono';
-	font-weight: 200;
+	font-weight: 400;
 	font-size: 1.4rem;
 	line-height: 1.8;
 }
@@ -166,13 +174,10 @@ p{
 /*------------------------------------------------------------------
 [2. Background Color Classes]
 */
-.bkg-jokergreen{
-	background-color: #012622; 
-	border-color: #012622;
-}
-.bkg-hover-green:hover{
-	background-color: #3f4936; 
-	border-color: #3f4936;
+
+.bkg-khepri {
+	background-color: #2D3742;
+	padding: 0rem 4rem 4rem 4rem;
 }
 
 /*------------------------------------------------------------------
@@ -219,7 +224,7 @@ p{
 	line-height: 1.2;
 	letter-spacing: 0.2rem;
 	text-transform: uppercase;
-	font-weight: bold;
+	font-weight: normal;
 	color: #fff;
 }
 .overlay-navigation .sub-menu a{
@@ -279,7 +284,7 @@ p{
 .header-background .navigation > ul > li > a,
 .header-background .overlay-navigation > ul > li > a{
 	color: #FFF;
-	font-weight: bold;
+	font-weight: normal;
 }
 .header-2.header-sticky .navigation > ul > li.current > a,
 .header-background .navigation > ul > li.current > a{
@@ -375,7 +380,7 @@ p{
 .overlay-info .project-title{
 	font-family: 'Allan', cursive;
 	font-size: 1.4rem;
-	font-weight: bold;
+	font-weight: normal;
 	text-transform: uppercase;
 }
 .overlay-info .project-description{
@@ -388,7 +393,7 @@ p{
 [8. Homepage]
 */
 .portfolio-filter-menu a{
-	font-weight: bold;
+	font-weight: normal;
 	color: #666;
 }
 .portfolio-filter-menu a:hover{
@@ -802,7 +807,7 @@ textarea.required-field:focus{
 .social-list li{
 	font-size: 1.1rem;
 	text-transform: uppercase;
-	font-weight: bold;
+	font-weight: normal;
 }
 .social-list,
 .social-list li a{
@@ -824,7 +829,7 @@ textarea.required-field:focus{
 	margin-left: 0.8rem;
 	margin-right: 0.8rem;
 	font-size: 1.1rem;
-	font-weight: bold;
+	font-weight: normal;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
 }
@@ -886,7 +891,7 @@ textarea.required-field:focus{
     font-size: 1.3rem;
     line-height: 1.2;
     font-style: normal;
-    font-weight: 200;
+    font-weight: 400;
 }
 
 /*------------------------------------------------------------------
@@ -962,4 +967,8 @@ a.action-buy{
 a.action-buy:hover{
 	background-color: #bb9b69;
 	border-color: #bb9b69;
+}
+#bark {
+    position: fixed;
+    bottom: 0;
 }
